@@ -22,7 +22,7 @@ Mohamad Ali
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/NguyenDucLinhcntt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bolun06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/duclinhdev" target="blank"><img align="center" src="https://th.bing.com/th/id/R.da53a4b2a7d155e30f94f56b4b9c435d?rik=qZhyUbmDxI0kUQ&pid=ImgRaw&r=0" alt="bolun06" height="30" width="35" /></a>
+<a href="https://linkedin.com/in/duclinhdev" target="blank"><img align="center" src="https://th.bing.com/th/id/R.da53a4b2a7d155e30f94f56b4b9c435d?rik=qZhyUbmDxI0kUQ&pid=ImgRaw&r=0" alt="bolun06" height="40" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
