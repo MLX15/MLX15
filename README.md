@@ -11,11 +11,12 @@ Mohamad Ali
 <h1 align="center">Hi 👋, I'm Duc Linh</h1>
 <h3 align="center"> I am an undergraduate student at Swinburne University Of Technology in Software Engineering</h3>
 
-- 🌱 I’m currently learning **Software Development & Android Development**
+- 🌱 I’m currently learning **Software Development & Machine Learning**
 
 - 💬 I am currently focusing on:
   - Front-end: HTML/CSS, JavaScript, React, Vue, Bootstrap
   - Back-end: Python, Ruby, Node, ASP.NET 5 Core with MVC or EF
+  - Other : Golang, Swift, C/C#/C++, Rust, Objective-C
 
 - 📫 How to reach me **1337cyber@protonmail.com**
 
