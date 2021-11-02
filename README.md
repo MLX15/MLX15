@@ -8,16 +8,6 @@ Mohamad Ali
   <img src="https://user-images.githubusercontent.com/627794/87238855-1589ee00-c3d6-11ea-8602-36c8c6cad686.gif" width="170">
 </p>
 
-<h1 align="center">Hi 👋, I'm Duc Linh</h1>
-<h3 align="center"> I am an undergraduate student at Swinburne University Of Technology in Software Engineering</h3>
-
-- 🌱 I’m currently learning **Software Development & Machine Learning**
-
-- 💬 I am currently focusing on:
-  - Front-end: HTML/CSS, JavaScript, React, Vue, Bootstrap
-  - Back-end: Python, Ruby, Node, ASP.NET 5 Core with MVC or EF
-  - Other : Golang, Swift, C/C#/C++, Rust, Objective-C
-
 - 📫 How to reach me **1337cyber@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
