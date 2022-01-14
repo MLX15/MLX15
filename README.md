@@ -4,11 +4,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@MLX151-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MLX151)](https://twitter.com/MLX151) [![Linkedin Badge](https://img.shields.io/badge/-MLX151-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duclinhdev/)](https://www.linkedin.com/in/duclinhdev/) [![Medium Badge](https://img.shields.io/badge/-@duclinhdev-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@duclinhdev/)](https://medium.com/duc-linh-dev)
 [![Gmail Badge](https://img.shields.io/badge/-cnttclc2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cnttclc2001@gmail.com)](mailto:cnttclc2001@gmail.com)
+
 I am Duc Linh 😃. I am from Vietnam and currently studying at Swinburne University Of Technology 🏫. I love to explore and learn about new things.
-
-<b><i>I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.</i><b>
-
-Mohamad Ali
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/627794/87238756-a790f700-c3d4-11ea-9946-ae4c19fbb831.gif" width="140">
@@ -18,7 +15,7 @@ Mohamad Ali
 
 - 📫 How to reach me **1337cyber@protonmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://fb.com/NguyenDucLinhcntt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bolun06" height="30" width="40" /></a>
 </p>
