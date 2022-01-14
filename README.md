@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@MLX151-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MLX151)](https://twitter.com/MLX151) [![Linkedin Badge](https://img.shields.io/badge/-MLX151-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duclinhdev/)](https://www.linkedin.com/in/duclinhdev/) [![Medium Badge](https://img.shields.io/badge/-@duclinhdev-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@duclinhdev/)](https://medium.com/duc-linh-dev)
+[![Twitter Badge](https://img.shields.io/badge/-@MLX151-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MLX151)](https://twitter.com/MLX151) [![Linkedin Badge](https://img.shields.io/badge/-duclinhdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duclinhdev/)](https://www.linkedin.com/in/duclinhdev/) [![Medium Badge](https://img.shields.io/badge/-@duclinhdev-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@duclinhdev/)](https://medium.com/duc-linh-dev)
 [![Gmail Badge](https://img.shields.io/badge/-cnttclc2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cnttclc2001@gmail.com)](mailto:cnttclc2001@gmail.com)
 
 I am Duc Linh 😃. I am from Vietnam and currently studying at Swinburne University Of Technology 🏫. I love to explore and learn about new things.
