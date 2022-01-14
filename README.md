@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@MLX151-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MLX151)](https://twitter.com/MLX151) [![Linkedin Badge](https://img.shields.io/badge/-duclinhdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duclinhdev/)](https://www.linkedin.com/in/duclinhdev/) [![Medium Badge](https://img.shields.io/badge/-@duclinhdev-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@duclinhdev/)](https://medium.com/duc-linh-dev)
 [![Gmail Badge](https://img.shields.io/badge/-cnttclc2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cnttclc2001@gmail.com)](mailto:cnttclc2001@gmail.com)
 
-I am Duc Linh 😃. I am from Vietnam and currently studying at Swinburne University Of Technology 🏫. I love to explore and learn about new things.
+I'm Duc Linh 😃. I'm from Vietnam and currently studying at Swinburne University Of Technology 🏫. I love to explore and learn about new things.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/627794/87238756-a790f700-c3d4-11ea-9946-ae4c19fbb831.gif" width="140">
@@ -13,7 +13,7 @@ I am Duc Linh 😃. I am from Vietnam and currently studying at Swinburne Univer
   <img src="https://user-images.githubusercontent.com/627794/87238855-1589ee00-c3d6-11ea-8602-36c8c6cad686.gif" width="170">
 </p>
 
-- 📫 How to reach me **1337cyber@protonmail.com**
+- 📫 How to reach me: **1337cyber@protonmail.com**
 
 ## 💬 Connect with me:
 <p align="left">
