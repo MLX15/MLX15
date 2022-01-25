@@ -60,7 +60,6 @@ Talk to me about:
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=MLX15&theme=react-dark&hide_border=true">
 <p>
-
 <hr>
 <br>
 
@@ -68,8 +67,5 @@ Talk to me about:
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
-
 <hr>
 <br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MLX15.MLX15)
-
