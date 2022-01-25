@@ -18,6 +18,22 @@ I'm Duc Linh 😃. I'm from Vietnam and currently studying at Swinburne Universi
 ## 💬 Connect with me:
 <p align="left">
 <a href="https://fb.com/NguyenDucLinhcntt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bolun06" height="30" width="40" /></a>
+
+<a href="https://github.com/MXL15">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
+</a>
+  
+<a href="https://dev.to/duclinhdev">
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
+</a>
+	
+<a href="https://www.linkedin.com/in/duclinhdev/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
+</a>
+  
+<a href="mailto:bestdeptrai123@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
+</a>
 </p>
 
 ## ⚡ Technologies
