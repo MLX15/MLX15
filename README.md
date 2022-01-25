@@ -38,6 +38,10 @@ I'm Duc Linh 😃. I'm from Vietnam and currently studying at Swinburne Universi
 </a>
 </p>
 
+<p align="center"> 
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
+</p>
+
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
@@ -54,13 +58,6 @@ Talk to me about:
 ## <p align="left">:musical_keyboard: Profile stats</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MLX15&show_icons=true&theme=tokyonight" alt=MLX15 :: Profile Stats" /></p>
-
-## <p align="left"> 📈 Github Contributions</p>
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=MLX15&theme=react-dark&hide_border=true">
-<p>
-<br>
 
 ## <p align="left">🐍 Just a snake eating my contributions</p>
 <p align='center'>
