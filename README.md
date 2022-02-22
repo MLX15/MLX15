@@ -70,6 +70,6 @@ Talk to me about:
 
 ## <p align="left">🐍 Just a snake eating my contributions</p>
 <p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/MLX15/MLX15/blob/master/github-contribution-grid-snake.svg">
 </p>
 <br>
