@@ -13,7 +13,7 @@ I'm Duc Linh 😃. I'm from Vietnam and currently studying at Swinburne Universi
   <img src="https://user-images.githubusercontent.com/627794/87238855-1589ee00-c3d6-11ea-8602-36c8c6cad686.gif" width="170">
 </p>
 
-- 📫 How to reach me: **1337cyber@protonmail.com**
+- 📫 How to reach me: **1337cyber@proton.me**
 
 ## 💬 Connect with me:
 <a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
