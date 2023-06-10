@@ -1,5 +1,5 @@
 <h2> Hello everyone, <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
-<a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@MLX151-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MLX151)](https://twitter.com/MLX151) [![Linkedin Badge](https://img.shields.io/badge/-duclinhdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duclinhdev/)](https://www.linkedin.com/in/duclinhdev/) [![Medium Badge](https://img.shields.io/badge/-@duclinhdev-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@duclinhdev/)](https://medium.com/duc-linh-dev)
@@ -16,7 +16,7 @@ I'm Duc Linh 😃. I'm from Vietnam and currently studying at Swinburne Universi
 - 📫 How to reach me: **1337cyber@proton.me**
 
 ## 💬 Connect with me:
-<a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align="center">
 <a href="https://www.facebook.com">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
@@ -44,7 +44,7 @@ I'm Duc Linh 😃. I'm from Vietnam and currently studying at Swinburne Universi
 </p>
 
 ## ⚡ Technologies 🛠
-<a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Backend development using **Python, Ruby, Golang**.
